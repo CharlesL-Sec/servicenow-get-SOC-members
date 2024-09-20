@@ -1,3 +1,4 @@
+```javascript
 // Based on script from - https://www.servicenow.com/community/developer-forum/assign-a-incident-automatically-to-a-user-in-group/m-p/1529430
 
  var groupName = 'Service Desk';
@@ -107,3 +108,4 @@
 
 
    }
+```
