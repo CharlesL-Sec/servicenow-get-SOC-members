@@ -2,7 +2,7 @@
 function getAssignee() {
 
 // Based on script from - https://www.servicenow.com/community/developer-forum/assign-a-incident-automatically-to-a-user-in-group/m-p/1529430
- var groupName = 'soc_responder';
+ var groupName = 'soc_incident_repsonder';
 // Get a list of members for this group
 
 var members = [];
